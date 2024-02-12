@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj": {}
+    "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj": {}
   },
   "projects": {
-    "c:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj": {
+    "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj",
+        "projectUniqueName": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj",
         "projectName": "WordSearch",
-        "projectPath": "c:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj",
+        "projectPath": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Repos\\Copilot\\WordSearch\\obj\\",
+        "outputPath": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

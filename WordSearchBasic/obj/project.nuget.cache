@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nj/KuPWPOsOTRw+7hVSpXS5NS3z4aMOUdsguE7FoVJld0urltKkDtx21E70th9vT4Zi3e2ENTm500k6/jumyeA==",
+  "dgSpecHash": "saDQEvgNJDhpvlMlxmaXrmD2rLFNezq8B8HhFIOIkeoHvTicKtRtlTQCjQJEgvc0YxLjlzr+bQj1FviPbtFg9w==",
   "success": true,
-  "projectFilePath": "c:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj",
+  "projectFilePath": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",

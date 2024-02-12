@@ -81,6 +81,14 @@
         }
     }
 
+    /// <summary>
+    /// Determines whether a word can be placed in the grid at the specified starting position and direction.
+    /// </summary>
+    /// <param name="word">The word to be placed.</param>
+    /// <param name="startRow">The starting row index.</param>
+    /// <param name="startCol">The starting column index.</param>
+    /// <param name="direction">The direction in which the word will be placed (0 for horizontal, 1 for vertical, 2 for diagonal).</param>
+    /// <returns>True if the word can be placed, false otherwise.</returns>
     private bool CanPlaceWord(string word, int startRow, int startCol, int direction)
     {
         // Check if the word fits in the grid in the chosen direction

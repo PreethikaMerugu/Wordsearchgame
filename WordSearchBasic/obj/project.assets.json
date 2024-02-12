@@ -1962,11 +1962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj",
+      "projectUniqueName": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj",
       "projectName": "WordSearch",
-      "projectPath": "C:\\Repos\\Copilot\\WordSearch\\WordSearch.csproj",
+      "projectPath": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\WordSearch.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Copilot\\WordSearch\\obj\\",
+      "outputPath": "C:\\Repos\\github-copilot-workshop\\GFS-copilot-workshop\\WordSearchBasic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
